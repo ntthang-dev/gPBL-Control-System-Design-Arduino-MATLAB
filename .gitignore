@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.Trash
+
+# Windows
+Thumbs.db
+
+# MATLAB & Simulink
+*.asv
+*.bak
+*.log
+*.tmp
+*.slic
+*.cprj
+*.zip
+
+# Simulink Cache and Code Gen
+slprj/
+sfprj/
+_sfprj/
+*.mex*
+*.obj
+*.o
+*.r*
+*.slx.r*
+*.mdl.r*
+*.sldd.r*
+*.mdlp
+*.slxc
+*_temp.mat
+
+# MATLAB preferences
+matlabprefs.mat
+MATLAB_Editor_State.ini
+
+# Simulink project
+*.smhi
+*.smi
+*.smgr
+*.smdi
+*.smdh
+*.smds
+Project.xml
+
+# Local settings
+local_settings.m
