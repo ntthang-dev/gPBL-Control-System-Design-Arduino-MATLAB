@@ -3,11 +3,11 @@
 [![Status](https://img.shields.io/badge/status-in_progress-yellow.svg)](https://github.com/ntthang-dev/gPBL-Control-System-Design-Arduino-MATLAB)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[cite_start]This repository contains all project files, source code, experiment data, and reports for the 20XX Online global Project Based-Learning (gPBL) program [cite: 12] [cite_start]on Power System Control Training [cite: 14][cite_start], hosted by Shibaura Institute of Technology (SIT)[cite: 18].
+This repository contains all project files, source code, experiment data, and reports for the 2025 Online global Project Based-Learning (gPBL) program on Power System Control Training , hosted by Shibaura Institute of Technology (SIT).
 
 This project involves practical experiments based on the textbook **"Control System Design: Getting Started with Arduino and MATLAB"**. The primary goal is to bridge control theory with hands-on application using Model-Based Design (MBD).
 
-[cite_start]**Partner Universities:** 
+**Partner Universities:** 
 * Shibaura Institute of Technology (SIT), Japan
 * Ho Chi Minh City University of Technology (HCMUT), Vietnam
 * Hanoi University of Science and Technology (HUST), Vietnam
@@ -42,12 +42,12 @@ Follow these steps to set up the project environment on your local machine.
 * Ball & Beam Kit (for Chapters 6, 7)
 
 **Software:**
-* **MATLAB/Simulink** (R2021b or newer) [cite: 613]
+* **MATLAB/Simulink** (R2021b or newer) 
 * **Required Toolboxes:**
-    * Control System Toolbox [cite: 466]
+    * Control System Toolbox 
     * Simulink
     * MATLAB Coder / Simulink Coder (for RoTH)
-* **Arduino IDE** (for drivers and setup) [cite: 240]
+* **Arduino IDE** (for drivers and setup) 
 * **ArduinoIO Library** (for communication with Simulink)
 
 ### Installation
