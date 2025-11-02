@@ -1,0 +1,36 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5%%%%%%%%%%%%%%%%%%%%
+-------------velo_test-----------------------------------------------------
+
+Bắt đầu Thí nghiệm Chương 4.2: Kiểm tra Phần cứng...
+Đang mở mô hình: velo_test
+Chạy mô phỏng trong 60 giây...
+*** HÃY XOAY CHIẾT ÁP (A1) ĐỂ KIỂM TRA TỐC ĐỘ ĐỘNG CƠ ***
+Warning: instrfind will be removed in a future release. For objects of type
+ - serialport use serialportfind
+ - tcpclient use tcpclientfind
+ - tcpserver use tcpserverfind
+ - udpport use udpportfind
+ - visadev use visadevfind
+ - aardvark use aardvarkfind
+ - ni845x use ni845xfind
+ - icdevice with LegacyMode=false use icdevicefind 
+Warning: serial will be removed in a future release. Use serialport instead.
+
+Note: To use serialport with icdevice, create an icdevice object with name-value argument LegacyMode=false. 
+Attempting connection .............
+Basic Analog and Digital I/O (adio.pde) sketch detected !
+Arduino successfully connected !
+Warning: the sketch running on the Arduino does not support the motor shield
+No operation will be performed on the Arduino board
+Warning: the sketch running on the Arduino does not support the motor shield
+No operation will be performed on the Arduino board
+Warning: the sketch running on the Arduino does not support the motor shield
+No operation will be performed on the Arduino board
+Warning: the sketch running on the Arduino does not support the motor shield
+No operation will be performed on the Arduino board
+Warning: the sketch running on the Arduino does not support the motor shield
+No operation will be performed on the Arduino board
+Warning: the sketch running on the Arduino does not support the motor shield
+No operation will be performed on the Arduino board
+Connection to 'Arduino1' successfully closed
+Hoàn thành mô phỏng.
